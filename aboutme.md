@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Concerning my interests in math, statistics, and data. 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Damerei Jha, and I have a background in pure math and more recently have begun experimenting with quantitative 
+approaches to finance. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
